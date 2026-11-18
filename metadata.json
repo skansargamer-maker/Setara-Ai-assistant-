@@ -1,0 +1,12 @@
+{
+  "name": "Setara AI Assistant",
+  "description": "A clean, modern personal AI assistant with real-time voice conversation, speech-to-text, and multimodal chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
